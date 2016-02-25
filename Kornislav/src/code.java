@@ -4,13 +4,13 @@ public class code {
 	public static void main(String[] args) {
 	int value1,value2,value3,value4,temp;
 	Scanner scan = new Scanner(System.in);
-	System.out.print("Input Value_1 : ");
+	System.out.print("Input value_1 : ");
 	value1=scan.nextInt();
-	System.out.print("Input Value_2 : ");
+	System.out.print("Input value_2 : ");
 	value2=scan.nextInt();
-	System.out.print("Input Value_3 : ");
+	System.out.print("Input value_3 : ");
 	value3=scan.nextInt();
-	System.out.print("Input Value_4 : ");
+	System.out.print("Input value_4 : ");
 	value4=scan.nextInt();
 	if(value1>value2){
 		temp=value1;
